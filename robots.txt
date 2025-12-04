@@ -1,0 +1,3 @@
+User-agent: * Allow: /
+
+Sitemap: https://53c2495b.annisawardrobe.pages.dev/sitemap.xml
